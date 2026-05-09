@@ -1,9 +1,9 @@
 {
-  "name": "natours",
+  "name": "api-cycle-processor",
   "version": "1.0.0",
   "description": "node & express & mongoDB",
   "license": "ISC",
-  "author": "Hassan Hussien",
+  "author": "hassan ",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
